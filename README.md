@@ -25,6 +25,12 @@ const discow = {
 
 <hr>
 <details align="center">
+<summary>Bağlantılar</summary>
+<br>
+  <a href="https://github.com/DiscowJS" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+</details>
+
+<details align="center">
 <summary>Github İstatistiğim</summary>
 <br>
 <a href="https://github.com/DiscowJS/" target="_blank">
