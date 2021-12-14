@@ -1,12 +1,11 @@
 ```js
 const discow = {
-  discord: "! DiscowZombie#5274",
-  nickname: "DiscowZombie",
   name: "Taha",
   age: 17,
-  job: "Fullstack JavaScript Developer",
+  job: "Fullstack Web Developer",
   location: "Turkey",
   website: "https://globalstore.xyz",
+  discord: "! DiscowZombie#5274"
 }
 
 ```
@@ -27,7 +26,26 @@ const discow = {
 <details align="center">
 <summary>Bağlantılar</summary>
 <br>
-  <a href="https://github.com/DiscowJS" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.youtube.com/channel/UCPcdzorVAXaDyKoqAkSUAIw" target"_blank"><img src="https://img.shields.io/badge/Youtube-red?color=FF0000&style=for-the-badge"></a>
+  <a href="https://open.spotify.com/user/cr191uj4nxnc5k03bo1vl9nil?si=fd279060e53947da" target"_blank"><img src="https://img.shields.io/badge/Spotify-red?color=1DB954&style=for-the-badge"></a>
+  <br>
+  <a href="https://discord.gg/global" target"_blank"><img src="https://img.shields.io/discord/771384726241804369?style=for-the-badge&color=404EED&label=Global%20Store"></a>
+  <a href="https://global-store.xyz" target"_blank"><img src="https://img.shields.io/badge/Global%20Global-red?color=555555&style=for-the-badge"></a>
+  <br>
+  <a href="https://github.com/DiscowJS" target"_blank"><img src="https://img.shields.io/badge/Github-red?color=333&style=for-the-badge"></a>
+  <a href="https://github.com/DiscowZombi" target"_blank"><img src="https://img.shields.io/badge/Github%201-red?color=333&style=for-the-badge"></a>
+  <a href="https://github.com/DiscowZombie" target"_blank"><img src="https://img.shields.io/badge/Github%202-red?color=333&style=for-the-badge"></a>
+  <a href="https://codepen.io/discowjs" target"_blank"><img src="https://img.shields.io/badge/Codepen-red?color=333&style=for-the-badge"></a>
+  <a href="https://www.npmjs.com/~discowzombie" target"_blank"><img src="https://img.shields.io/badge/NpmJS-red?color=CB3837&style=for-the-badge"></a>
+  <br>
+  <a href="https://discordapp.com/users/746066222310883339" target"_blank"><img src="https://img.shields.io/badge/Discord%201-red?color=7289da&style=for-the-badge"></a>
+  <a href="https://discordapp.com/users/816362593844330497" target"_blank"><img src="https://img.shields.io/badge/Discord%202-red?color=7289da&style=for-the-badge"></a>
+  <a href="https://discordapp.com/users/754422618085392395" target"_blank"><img src="https://img.shields.io/badge/Discord%203-red?color=7289da&style=for-the-badge"></a>
+  <a href="https://discordapp.com/users/808656625766236220" target"_blank"><img src="https://img.shields.io/badge/Discord%204-red?color=7289da&style=for-the-badge"></a>
+  <a href="https://discordapp.com/users/751530641031561216" target"_blank"><img src="https://img.shields.io/badge/Discord%205-red?color=7289da&style=for-the-badge"></a>
+  <a href="https://discordapp.com/users/881544551209250899" target"_blank"><img src="https://img.shields.io/badge/Discord%206-red?color=7289da&style=for-the-badge"></a>
+  <br>
+
 </details>
 
 <details align="center">
