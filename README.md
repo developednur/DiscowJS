@@ -4,8 +4,8 @@ const discow = {
   age: 17,
   job: "Fullstack Web Developer",
   location: "Turkey",
-  website: "https://globalstore.xyz",
-  discord: "'Discow#5274"
+  website: "https://discowzombie.tk",
+  discord: "! DiscowZombie#5274"
 }
 
 ```
