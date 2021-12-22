@@ -2,7 +2,7 @@
 const discow = {
   name: "Taha",
   age: 17,
-  job: "Fullstack Web Developer",
+  job: "Fullstack JavaScript Developer",
   location: "Turkey",
   website: "https://discowzombie.tk",
   discord: "! DiscowZombie#5274"
