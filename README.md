@@ -2,9 +2,9 @@
 const discow = {
   name: "Taha",
   age: 17,
-  job: "Fullstack JavaScript Developer",
+  job: "Fullstack Web Developer",
   location: "Turkey",
-  website: "https://discowzombie.tk",
+  website: "https://distran.tk",
   discord: "! DiscowZombie#5274"
 }
 
@@ -29,14 +29,13 @@ const discow = {
   <a href="https://www.youtube.com/channel/UCPcdzorVAXaDyKoqAkSUAIw" target"_blank"><img src="https://img.shields.io/badge/Youtube-red?color=FF0000&style=for-the-badge"></a>
   <a href="https://open.spotify.com/user/cr191uj4nxnc5k03bo1vl9nil?si=fd279060e53947da" target"_blank"><img src="https://img.shields.io/badge/Spotify-red?color=1DB954&style=for-the-badge"></a>
   <br>
-  <a href="https://discord.gg/chiva" target"_blank"><img src="https://img.shields.io/discord/903678235676659742?style=for-the-badge&color=404EED&label=Chiva%201965"></a>
-  <a href="https://discowzombie.tk" target"_blank"><img src="https://img.shields.io/badge/DiscowZombie%20.TK-red?color=555555&style=for-the-badge"></a>
-  <br>
   <a href="https://github.com/DiscowJS" target"_blank"><img src="https://img.shields.io/badge/Github-red?color=333&style=for-the-badge"></a>
-  <a href="https://github.com/DiscowZombi" target"_blank"><img src="https://img.shields.io/badge/Github%201-red?color=333&style=for-the-badge"></a>
-  <a href="https://github.com/DiscowZombie" target"_blank"><img src="https://img.shields.io/badge/Github%202-red?color=333&style=for-the-badge"></a>
   <a href="https://codepen.io/discowjs" target"_blank"><img src="https://img.shields.io/badge/Codepen-red?color=333&style=for-the-badge"></a>
   <a href="https://www.npmjs.com/~discowzombie" target"_blank"><img src="https://img.shields.io/badge/NpmJS-red?color=CB3837&style=for-the-badge"></a>
+  <br>
+  <a href="https://discord.gg/hermes" target"_blank"><img src="https://img.shields.io/discord/911959603904925717?style=for-the-badge&color=404EED&label=Hermes"></a>
+  <a href="https://discord.gg/809" target"_blank"><img src="https://img.shields.io/discord/911959603904925717?style=for-the-badge&color=404EED&label=Santha%200809"></a>
+  <a href="https://distran.tk" target"_blank"><img src="https://img.shields.io/badge/Distran.TK-red?color=555555&style=for-the-badge"></a>
   <br>
   <a href="https://discordapp.com/users/746066222310883339" target"_blank"><img src="https://img.shields.io/badge/Discord%201-red?color=7289da&style=for-the-badge"></a>
   <a href="https://discordapp.com/users/816362593844330497" target"_blank"><img src="https://img.shields.io/badge/Discord%202-red?color=7289da&style=for-the-badge"></a>
