@@ -34,7 +34,7 @@ const discow = {
   <a href="https://www.npmjs.com/~discowzombie" target"_blank"><img src="https://img.shields.io/badge/NpmJS-red?color=CB3837&style=for-the-badge"></a>
   <br>
   <a href="https://discord.gg/hermes" target"_blank"><img src="https://img.shields.io/discord/911959603904925717?style=for-the-badge&color=404EED&label=Hermes"></a>
-  <a href="https://discord.gg/809" target"_blank"><img src="https://img.shields.io/discord/911959603904925717?style=for-the-badge&color=404EED&label=Santha%200809"></a>
+  <a href="https://discord.gg/809" target"_blank"><img src="https://img.shields.io/discord/875063383865589871?style=for-the-badge&color=404EED&label=Santha%200809"></a>
   <a href="https://distran.tk" target"_blank"><img src="https://img.shields.io/badge/Distran.TK-red?color=555555&style=for-the-badge"></a>
   <br>
   <a href="https://discordapp.com/users/746066222310883339" target"_blank"><img src="https://img.shields.io/badge/Discord%201-red?color=7289da&style=for-the-badge"></a>
