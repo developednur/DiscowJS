@@ -5,7 +5,7 @@ const discow = {
   job: "Fullstack Web Developer",
   location: "Turkey",
   website: "https://distran.tk",
-  discord: "! DiscowZombie#5274"
+  discord: "! Discow#5274"
 }
 
 ```
